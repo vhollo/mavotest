@@ -17,6 +17,16 @@
 				}
 			],
 			"country": "gb"
+		},
+		{
+			"photos": [
+				{
+					"image": "https://cdn.rawgit.com/vhollo/mavotest/4ae2a15c3444776eca96a680da524de29182f998/images/logo-szentendre.png",
+					"name": "Logo szentendre"
+				}
+			],
+			"description": "perepep",
+			"country": "gr"
 		}
 	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
